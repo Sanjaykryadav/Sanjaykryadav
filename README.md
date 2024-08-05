@@ -6,7 +6,11 @@ Welcome to my GitHub profile! I'm a Software engineer with a passion for web dev
 <br/>
 
 
-![Profile Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile) <!-- Replace with a personalized banner image -->
+<p align="center">
+  <img src="https://media.giphy.com/media/8JpNFj3sM6R0g/giphy.gif" alt="Hi, I'm Sanjay Kumar Yadav 👋 A passionate web developer exploring the world of tech 🚀" />
+</p>
+
+ <!-- Replace with a personalized banner image -->
 
 ## 🚀 Skills & Technologies
 

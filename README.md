@@ -66,7 +66,7 @@ I'm currently interning at Conversely, where I'm deeply engaged in developing wi
 
 - [LinkedIn](https://www.linkedin.com/in/sanjaykryadav)
 - [Twitter](https://twitter.com/sanjaykryadav)
-- [Portfolio](https://sanjaykryadav.github.io/portfolio)
+- [Portfolio](https://sanjaykryadav.github.io/Portfolio/#portfolio)
 
 ---
 

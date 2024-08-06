@@ -10,51 +10,47 @@ Welcome to my GitHub profile! I'm a Software engineer with a passion for web dev
   <img src="https://media.giphy.com/media/8JpNFj3sM6R0g/giphy.gif" alt="Hi, I'm Sanjay Kumar Yadav 👋 A passionate web developer exploring the world of tech 🚀" />
 </p>
 
- <!-- Replace with a personalized banner image -->
 
-## 🚀 Skills & Technologies
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
+![MS Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<div align="left" style="width: 50%; display: inline-block; vertical-align: top;">
-  <h3 style="color: #4CAF50;">🔧 Skills & Technologies</h3>
-  
-  **Languages:**
-  <br />
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=000000)
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF)
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF)
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=000000)
-  ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=FFFFFF)
-  
-  **Frameworks & Libraries:**
-  <br />
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=FFFFFF)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=FFFFFF)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=FFFFFF)
-  
-  **Tools & Technologies:**
-  <br />
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=FFFFFF)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=FFFFFF)
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
-  ![MS Word](https://img.shields.io/badge/-MS%20Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=FFFFFF)
-  
-  **Concepts:**
-  <br />
-  ![OOPs](https://img.shields.io/badge/-OOPs-4B4B4B?style=flat-square&logo=java&logoColor=FFFFFF)
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sanjaykryadav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sanjaykryadav&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaykryadav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+# 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sanjaykryadav&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
 
-<div align="right" style="width: 50%; display: inline-block; vertical-align: top;">
-  <h3 style="color: #4CAF50;">📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjaykryadav&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=gruvbox" alt="GitHub Stats" style="width: 60%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaykryadav&layout=compact&hide_title=true&theme=gruvbox" alt="Top Languages" style="width: 60%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-</div>
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sanjaykryadav&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+---
 
 ## 🌟 Current Focus
 
-I'm currently interning at Conversely, where I'm deeply engaged in developing with **Node.js** and **React**. This role allows me to apply my skills to real-world projects and collaborate with talented professionals.
+I'm currently looking for job and internship opportunities in the software field, where I can apply my skills and collaborate with talented professionals on real-world projects.
 
 ## 🎯 Interests
 
@@ -71,3 +67,8 @@ I'm currently interning at Conversely, where I'm deeply engaged in developing wi
 ---
 
 *Thank you for checking out my GitHub profile! Feel free to explore my repositories and connect with me for collaborations or discussions.*
+
+---
+[![](https://visitcount.itsvg.in/api?id=Sanjaykryadav&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
